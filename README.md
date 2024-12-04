@@ -14,11 +14,10 @@
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
-- 🔭 I’m currently working on a **Food Waste Management System**.
-- 🌱 I’m exploring advanced **Data Analysis tools** and **Web Development frameworks**.
-- 💬 Ask me about **Python, SQL, and Data Analysis techniques**.
-- 📫 How to reach me: **[manju.email@example.com](mailto:manju.email@example.com)**.
-- 📚 Connect with me on **[LinkedIn](https://linkedin.com/in/manju)**.
+- 🔭 I’m currently working on a project **Evolving-ai**.
+- 🌱 I’m exploring advanced **Data Analysis tools** and **Python Developer**.
+- 📫 How to reach me: **[manjuhiremath345@gmail.com](mailto:manjuhiremath345@gmail.com)**.
+- 📚 Connect with me on **[LinkedIn](https://www.linkedin.com/in/manju-hiremath-836132288)**.
 
 ---
 
