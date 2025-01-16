@@ -8,9 +8,9 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-    I am a <strong>Computer Application Student</strong> with a strong foundation in programming, database management, and data analysis. 
-    Having completed an internship as a Python Developer and a project on FIFA analysis, I am passionate about deriving 
-    insights from data and creating impactful web-based applications. 
+    I am a <strong>🎓 Computer Application Student | 💻 Aspiring Data Analyst & Web Developer
+
+Hi there! I'm Manju (Mj), a tech enthusiast passionate about exploring the realms of programming, database management, and data analysis. 🚀 
     <br><br>
     I'm an eager learner, ready to tackle new challenges and contribute to meaningful projects. 🚀
 </p>
