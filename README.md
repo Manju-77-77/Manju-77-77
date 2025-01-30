@@ -8,7 +8,7 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
-    <strong>🎓 Computer Application Student | 💻 Aspiring Data Analyst & Web Developer</strong>
+    <strong>🎓 Computer Application Student | 💻 Python Developer</strong>
     <br><br>
     Hi there! I'm <strong>Manju (Mj)</strong>, a tech enthusiast passionate about exploring the realms of <strong>programming</strong>, <strong>database management</strong>, and <strong>data analysis</strong>. 
     <br><br>
