@@ -21,7 +21,7 @@
 <h2 align="center">🔭 Currently Working On</h2>
 <p align="center">
     <strong>Project:</strong> Evolving-AI<br>
-    <strong>Exploring:</strong> Advanced Data Analysis Tools and Python Development
+    <strong>Exploring:</strong> Java ChatRoom Application
 </p>
 
 ---
