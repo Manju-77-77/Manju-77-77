@@ -17,7 +17,7 @@
 
 <p align="center">
     📄 <a href="https://drive.google.com/file/d/100zoVCpbqQw7pBjgUc4-KVHc2OZpzpt8/view?usp=drive_link" target="_blank"><strong>View My Resume</strong></a> &nbsp;|&nbsp;
-    🌐 <a href="https://github.com/Manju-77-77/Manju-77-77.git" target="_blank"><strong>Visit My Portfolio</strong></a>
+    🌐 <a href="https://manju-77-77.github.io/My-portfolio/" target="_blank"><strong>Visit My Portfolio</strong></a>
 </p>
 
 ---
