@@ -1,71 +1,56 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=FF7F7F&lines=Hello!+👋;+I'm+Manju;" />
-</h1>
+<h1 align="center">Hi 👋, I'm Manju (Mj)</h1>
+<h3 align="center">Computer Application Student | Python Developer passionate about data analysis and building creative tech solutions</h3>
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="500" alt="Coding Animation"/>
-</div>
-
-<h2 align="center">👨‍💻 About Me</h2>
-<p align="center">
-    <strong>🎓 Computer Application Student | 💻 Python Developer</strong>
-    <br><br>
-    Hi there! I'm <strong>Manju (Mj)</strong>, a tech enthusiast passionate about exploring the realms of <strong>programming</strong>, <strong>database management</strong>, and <strong>data analysis</strong>. 
-    <br><br>
-    I'm an eager learner, ready to tackle new challenges and contribute to meaningful projects. 🚀
-</p>
-
+<img align="right" width="400" alt="Coding Animation" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
 
 ---
 
-<h2 align="center">🔭 Currently Working On</h2>
-<p align="center">
-    <strong>Project:</strong> Evolving-AI<br>
-    <strong>Exploring:</strong> Java ChatRoom Application
-</p>
+### 🌟 About Me
+- 🎓 **Currently pursuing:** Bachelor's in Computer Applications  
+- 💻 **Tech Interests:** Programming, Database Management, Data Analysis  
+- 🚀 **Eager Learner:** Open to challenges and passionate about impactful projects  
+- 📫 **How to reach me:** [manjuhiremath345@gmail.com](mailto:manjuhiremath345@gmail.com)  
+- 💼 **Currently working on:** Evolving-AI | Exploring: Java ChatRoom Application  
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
-<p align="center">
-    <a href="https://www.linkedin.com/in/manju-hiremath-836132288" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://www.hackerrank.com/profile/manjuhiremath345" target="_blank">
-        <img src="https://img.shields.io/badge/Hackerrank-%232EC866.svg?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-    </a>
-    <a href="mailto:manjuhiremath345@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-    </a>
+<h3 align="left">My Online Profiles:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/manju-hiremath-836132288" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a> &nbsp;
+
+<a href="https://www.hackerrank.com/profile/manjuhiremath345" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Hackerrank" height="30" width="40" />
+</a>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Skills and Tools</h2>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/seaborn-%231f77b4.svg?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
 <p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manju&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manju&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manju&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=manju&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manju&theme=radical" alt="GitHub Streak" width="400"/>
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manju&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</div>
+### 💡 Fun Fact
+🌟 I’m passionate about blending data with creativity to solve real-world problems! 🌟
 
 ---
 
-<h2 align="center">💡 Fun Fact</h2>
-<p align="center">
-    🌟 I’m passionate about blending data with creativity to solve real-world problems! 🌟
-</p>
+### 🚀 Reach Out to Me
+Feel free to reach out to me for collaboration, discussions, or project ideas! I’m always open to learning and contributing. Let’s connect and create something amazing! 🌟
