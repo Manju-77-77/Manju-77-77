@@ -15,37 +15,17 @@
     I'm an eager learner, ready to tackle new challenges and contribute to meaningful projects. 🚀
 </p>
 
+<p align="center">
+    📄 <a href="https://drive.google.com/file/d/1Wys0Did4D2-Co7pGhT_RY2ZpyJXf940F/view?usp=sharing" target="_blank"><strong>View My Resume</strong></a> &nbsp;|&nbsp;
+    🌐 <a href="https://akbarhusain12.github.io/portfolio/" target="_blank"><strong>Visit My Portfolio</strong></a>
+</p>
+
 ---
 
 <h2 align="center">🔭 Currently Working On</h2>
 <p align="center">
     <strong>Project:</strong> Evolving-AI<br>
     <strong>Exploring:</strong> Java ChatRoom Application
-</p>
-
----
-
-<h2 align="center">🧰 Tech Stack</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</p>
-
----
-
-<h2 align="center">🔗 Quick Links</h2>
-<p align="center">
-  <a href="https://manju-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-FF7F50?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://drive.google.com/file/d/1LqsoiPR3S_hzF-PjwTPRbYmp07YZHcT8/view" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-00C897?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
-  </a>
 </p>
 
 ---
@@ -65,13 +45,39 @@
 
 ---
 
+<h2 align="center">🛠️ Skills and Tools</h2>
+<p align="center">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
+</p>
+
+---
+
+<h2 align="center">🧰 Tech Stack</h2>
+<p align="center">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+    <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/seaborn-%231f77b4.svg?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Stats</h2>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Manju-77-77&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manju-77-77&theme=radical" alt="GitHub Streak" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=manju&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=manju&theme=radical" alt="GitHub Streak" width="400"/>
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manju-77-77&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manju&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </div>
 
 ---
