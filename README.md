@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300" alt="Coding Animation"/>
+    <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ3OTEyOTQsIm5iZiI6MTc0NDc5MDk5NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE2VDA4MDk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1ODQyZTIwMmI2YzNiNGM2ZjY5MmUxODljMjhhN2EwY2UxYjM3NTEwYTEyZGIwNDZjYjYxZDc4OGU5MzQzZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-7YP_DEGh2tidgGaranRSYRPGlifttavGQzP_I-r8bA" width="400" alt="Coding Animation"/>
 </div>
 
 <h2 align="center">👨‍💻 About Me</h2>
