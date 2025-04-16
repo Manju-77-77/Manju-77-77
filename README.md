@@ -1,14 +1,7 @@
 <!-- Header Section: Text + Image side-by-side -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap; height: 250px;">
-    <!-- Text animation vertically centered -->
-    <div style="display: flex; align-items: center; height: 100%;">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=FF7F7F&lines=Hello!+👋;+I'm+Manju;" alt="Typing Animation" />
-    </div>
-
-    <!-- Coding animation -->
-    <div>
-        <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ3OTEyOTQsIm5iZiI6MTc0NDc5MDk5NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE2VDA4MDk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1ODQyZTIwMmI2YzNiNGM2ZjY5MmUxODljMjhhN2EwY2UxYjM3NTEwYTEyZGIwNDZjYjYxZDc4OGU5MzQzZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-7YP_DEGh2tidgGaranRSYRPGlifttavGQzP_I-r8bA" width="250" alt="Coding Animation"/>
-    </div>
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=FF7F7F&lines=Hello!+👋;+I'm+Manju;" alt="Typing Animation" />
+    <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQ3OTEyOTQsIm5iZiI6MTc0NDc5MDk5NCwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDE2VDA4MDk1NFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1ODQyZTIwMmI2YzNiNGM2ZjY5MmUxODljMjhhN2EwY2UxYjM3NTEwYTEyZGIwNDZjYjYxZDc4OGU5MzQzZGQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.-7YP_DEGh2tidgGaranRSYRPGlifttavGQzP_I-r8bA" width="250" alt="Coding Animation"/>
 </div>
 
 
