@@ -1,7 +1,7 @@
 <!-- Header Section: Text + Image side-by-side -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&color=FF7F7F&lines=Hello!+👋;+I'm+Manju;" alt="Typing Animation" />
-    <img src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDUyNDc2MzIsIm5iZiI6MTc0NTI0NzMzMiwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk4NTYtM2I0NjA3YTEtMWNjNi00MWYxLTkyNmYtODkyYWU4ODBlN2E1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDIxVDE0NTUzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWI2ZmFkM2E5Njc2OTQ1NzdlNjhkZDg4MDI0MWZhYWE2NTJjNDRiNTUzMzNiNjcyZmM2ZmYyZmEwZTEzY2VkYzQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0._7mxPdG0-DObKyCnxe1k27GaKZMFLzCvVv8qkUIf3-E" width="250" alt="Coding Animation"/>
+    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif" width="250" alt="Coding Animation"/>
 </div>
 
 
