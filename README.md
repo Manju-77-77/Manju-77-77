@@ -25,7 +25,7 @@
 
 <h2 align="center">🔭 Currently Working On</h2>
 <p align="center">
-    <strong>Project:</strong> Evolving-AI<br>
+    <strong>Project:</strong> Code-Visualizer <br>
     <strong>Exploring:</strong> Java ChatRoom Application
 </p>
 
