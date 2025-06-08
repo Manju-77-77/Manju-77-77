@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-    📄 <a href="https://drive.google.com/file/d/100zoVCpbqQw7pBjgUc4-KVHc2OZpzpt8/view?usp=drive_link" target="_blank"><strong>View My Resume</strong></a> &nbsp;|&nbsp;
+    📄 <a href="https://drive.google.com/file/d/1jdBUbKIcXacIV5IH1gicGSBGQGf1-suQ/view?usp=sharing" target="_blank"><strong>View My Resume</strong></a> &nbsp;|&nbsp;
     🌐 <a href="https://manjuhiremath.netlify.app/" target="_blank"><strong>Visit My Portfolio</strong></a>
 </p>
 
