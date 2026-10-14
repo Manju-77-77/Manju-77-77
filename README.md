@@ -17,16 +17,16 @@
 </p>
 
 <p align="center">
-    📄 <a href="https://drive.google.com/file/d/1XE5v1uZe8FSPxnS7Ve-AXwNtjf67EVp2/view?usp=sharing" target="_blank"><strong>View My Resume</strong></a> &nbsp;|&nbsp;
-    🌐 <a href="https://manju-portfolio-chi.vercel.app/" target="_blank"><strong>Visit My Portfolio</strong></a>
+    📄 <a href="https://drive.google.com/file/d/1QP_6VVjCP_tYPfNZVcfSOoBcY17Oh_My/view?usp=sharing" target="_blank"><strong>View My Resume</strong></a> &nbsp;|&nbsp;
+    🌐 <a href="https://manju-portfolio-site.vercel.app/" target="_blank"><strong>Visit My Portfolio</strong></a>
 </p>
 
 ---
 
-<h2 align="center">🔭 Currently Working On</h2>
+<h2 align="center">🔭 Currently Working As Web Developer</h2>
 <p align="center">
-    <strong>Project:</strong> Code-Visualizer <br>
-    <strong>Exploring:</strong> Java ChatRoom Application
+    <strong>Job:</strong> Rise-Infotech <br>
+    <strong>Job:</strong> Indian Institute of Technology Dharwad
 </p>
 
 ---
